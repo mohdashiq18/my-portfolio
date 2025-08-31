@@ -67,7 +67,7 @@ const Contact = () => {
               <div className="widget_contact_info mb-35">
                 <ul>
                   <li>
-                    <i className="far fa-map-marker-alt" /> 45/55 Turab Ali Ka Purwa, Fatehpur,<br /> Uttar Predesh
+                    <i className="far fa-map-marker-alt" /> 45/55 Turab Ali Ka Purwa, Fatehpur,<br /> Uttar Pradesh
                   </li>
                   <li>
                     <i className="far fa-envelope" />
