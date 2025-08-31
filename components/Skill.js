@@ -109,7 +109,7 @@ const Skill = () => {
                   Combining my skills in full stack development, mobile app development, and UI/UX design, I bring a holistic approach to projects. Whether it’s building a complete web application, developing a mobile app, or designing a user-friendly interface, I ensure that every aspect of the project is handled with expertise and attention to detail.
                   </p>
                   <ul className="list-style-two">
-                <li>2+ Years Of Experience</li>
+                <li>3+ Years Of Experience</li>
                 <li>Professional Web Designer & Development</li>
                 <li>Mobile Apps Design & Development</li>
                 <li>Custom Design Support</li>

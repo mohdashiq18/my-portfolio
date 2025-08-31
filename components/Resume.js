@@ -26,6 +26,18 @@ const Resume = () => {
             <div className="resume-items-wrap">
               <div className="row justify-content-between">
                 <div className="col-xl-5 col-md-6">
+                  <div className="resume-item wow fadeInUp delay-0-4s">
+                    <div className="icon">
+                      <i className="far fa-arrow-right" />
+                    </div>
+                    <div className="content">
+                      <span className="years">2024 - Present</span>
+                      <h4>MERN Developer</h4>
+                      <span className="company">Gajanan Softwares Private Limited.</span>
+                    </div>
+                  </div>
+                </div>
+                <div className="col-xl-5 col-md-6">
                   <div className="resume-item wow fadeInUp delay-0-3s">
                     <div className="icon">
                       <i className="far fa-arrow-right" />
@@ -37,18 +49,7 @@ const Resume = () => {
                     </div>
                   </div>
                 </div>
-                <div className="col-xl-5 col-md-6">
-                  <div className="resume-item wow fadeInUp delay-0-4s">
-                    <div className="icon">
-                      <i className="far fa-arrow-right" />
-                    </div>
-                    <div className="content">
-                      <span className="years">2024 - Present</span>
-                      <h4>MERN Developer</h4>
-                      <span className="company">Xicom Technologies Ltd.</span>
-                    </div>
-                  </div>
-                </div>
+                
                 {/* <div className="col-xl-5 col-md-6">
                   <div className="resume-item wow fadeInUp delay-0-2s">
                     <div className="icon">

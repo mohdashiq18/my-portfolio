@@ -57,7 +57,7 @@ const About = () => {
             <div className="col-xl-5 col-lg-6">
               <div className="about-right-part wow fadeInLeft delay-0-3s">
                 <div className="experience-years">
-                  <b>2+</b>
+                  <b>3+</b>
                   <h5>Years Of Experience</h5>
                 </div>
                 <div className="about-btn one wow fadeInRight delay-0-4s">
